@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: registry.cn-hangzhou.aliyuncs.com
-  IMAGE_NAME: cloakhq/cloakbrowser-manager
+  IMAGE_NAME: ly1997/cloakbrowser-manager
 
 jobs:
   build-and-push:
